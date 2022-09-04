@@ -1,4 +1,4 @@
-# useJsonFetch (реализация кстомного хука)
+# useJsonFetch (реализация кастомного хука)
 
 Решение к уроку "Hooks & Context API"
 
